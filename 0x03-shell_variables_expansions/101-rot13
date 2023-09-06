@@ -1,2 +1,2 @@
 #!/bin/bash
-'rot13_encoder_decoder.sh'
+rot13_encoder_decoder.sh
