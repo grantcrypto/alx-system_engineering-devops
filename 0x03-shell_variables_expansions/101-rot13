@@ -1,2 +1,2 @@
 #!/bin/bash
-rot13_encoder_decoder.sh
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
